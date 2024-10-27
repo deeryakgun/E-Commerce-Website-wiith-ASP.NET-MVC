@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{F3B1E9DF-72D6-4535-B324-8BDC5E4ABDBD}|Default">
+  <MonoDevelop.Ide.ItemProperties.proje__4 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/deryaakgun/Desktop/proje_4kopyası/proje_4/Views/Shared/_AdminLayout.cshtml" relfile="proje_4/Views/Shared/_AdminLayout.cshtml" line="425" column="1" />
+      <Breakpoint file="/Users/deryaakgun/Desktop/proje_4kopyası/proje_4/Controllers/ProductsController.cs" relfile="proje_4/Controllers/ProductsController.cs" line="64" column="1" />
+      <Breakpoint file="/Users/deryaakgun/Desktop/proje_4kopyası/proje_4/Controllers/ProductsController.cs" relfile="proje_4/Controllers/ProductsController.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="proje_4/Views/Home/Detay.cshtml">
+    <Files>
+      <File FileName="proje_4/Views/Home/Detay.cshtml" Line="26" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="proje_4" expanded="True">
+            <Node name="proje_4" expanded="True">
+              <Node name="Component" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Oturum" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Categories" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Products" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="Components" expanded="True">
+                    <Node name="SliderList" expanded="True" />
+                    <Node name="TrendList" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
